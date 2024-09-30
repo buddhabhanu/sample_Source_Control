@@ -5,6 +5,7 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{A6878E2C-51B5-4619-9D0F-0ECD05573250}"
 	ProjectSection(SolutionItems) = preProject
+		Project.sql = Project.sql
 		test.txt = test.txt
 	EndProjectSection
 EndProject
