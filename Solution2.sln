@@ -10,6 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{A6878E
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queries", "Queries", "{4041D7C5-CBFD-41B7-8150-59651C8B0586}"
+	ProjectSection(SolutionItems) = preProject
+		queries_sample.sql = queries_sample.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
