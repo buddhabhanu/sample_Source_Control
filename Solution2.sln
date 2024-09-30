@@ -14,12 +14,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queries", "Queries", "{4041
 		queries_sample.sql = queries_sample.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{9335F218-3C92-49D8-9A90-4BC14D80C8BE}"
+	ProjectSection(SolutionItems) = preProject
+		test.sql = test.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4041D7C5-CBFD-41B7-8150-59651C8B0586} = {A6878E2C-51B5-4619-9D0F-0ECD05573250}
+		{9335F218-3C92-49D8-9A90-4BC14D80C8BE} = {A6878E2C-51B5-4619-9D0F-0ECD05573250}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {853B0C16-BFEB-4ACC-A41F-61C59A8AAA8C}
